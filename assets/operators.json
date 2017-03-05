@@ -1,0 +1,4 @@
+{"attackers" : [ {"name":"Ash"}, {"name":"Blackbeard"}, {"name":"Blitz"}, {"name":"Buck"}, {"name":"Capitao"}, {"name":"Fuze"}, {"name":"Glaz"}, {"name":"Hibana"},
+  {"name":"IQ"}, {"name":"Jackal"}, {"name":"Montagne"}, {"name":"Sledge"}, {"name":"Thatcher"}, {"name":"Thermite"}, {"name":"Twitch"} ],
+"defenders" : [ {"name":"Bandit"}, {"name":"Castle"}, {"name":"Caveira"}, {"name":"Doc"}, {"name":"Echo"}, {"name":"Frost"}, {"name":"Jaeger"}, {"name":"Kapkan"},
+  {"name":"Mira"}, {"name":"Mute"}, {"name":"Pulse"}, {"name":"Rook"}, {"name":"Smoke"}, {"name":"Tachanka"}, {"name":"Valkyrie"} ]}

@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="assets/stylesheet.css?version=1.0">
+    <title>Siege Tools</title>
+    <meta name="title" content="Random Rainbow Six: Siege Operators">
+    <meta name="description" content="A bunch of tools for the game Rainbow 6 Siege">
+    <meta name="viewport" content="width=device-width, initial-scale=0.5">
+    <meta http-equiv="cache-control" content="max-age=0">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <meta http-equiv="expires" content="Sun, 1 Jan 1980 12:00:00 GMT">
+    <meta http-equiv="pragma" content="no-cache">
+    <script src="scripts/randomizer.js?version=1.0"></script>
+  </head>
+
+  <body>
+    <header>
+      <div id="header">
+        <a id="title" href="index.html">Rainbow 6 Siege Tools</a>
+
+      </div>
+      <div id="nav-header">
+        <div class="banner">
+        <ul id="nav-links">
+          <li><a href="#">Randomizer</a></li>
+          <li><a href="#">Under Construction</a></li>
+        </ul>
+      </div>
+    </header>
+    <div class="container">
+      <div class="random-title">
+        <h1 id="op-name">Recruit</h1>
+      </div>
+      <div id="output" class="row">
+        <img id="operator-image" class="img-responsive" src="assets/recruit/recruit_blue.png">
+        <!-- <span id="op-name" class="operator-name">Recruit</span> -->
+      </div>
+      <div class="row">
+        <button onclick="buttonAction(true)" id="btnAttack" type="button" class="btn btn-attacker">Attacker</button>
+        <button onclick="buttonAction(false)" id="btnDefend" type="button" class="btn btn-defender">Defender</button>
+      </div>
+    </div>
+  </body>
+</html>
